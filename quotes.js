@@ -495,5 +495,13 @@ module.exports = [
   {
     quote: "Everything is back to normal. I-I think... I think I can go back to trying to destroy the world again",
     character: "Butters"
+  },
+  {
+    quote: "Loo Loo Loo i've got some apples, Loo Loo Loo you've got some too",
+    character: "Butters"
+  },
+  {
+    quote: "They took our jobs. They took our jobsss",
+    character: "Darryl Weathers"
   }
 ];
